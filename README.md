@@ -6,3 +6,5 @@ This repository contains the basic code to take the payload from a customised Co
 It accompanies a blog post on the Contentful website.
 
 The coding is designed to run as an action on IBM Cloud.
+
+Don't forget to update the config.py with your own values.
